@@ -1,0 +1,6 @@
+{
+    "name": "vender/fb-login",
+    "require": {
+        "facebook/graph-sdk": "^5.7"
+    }
+}
